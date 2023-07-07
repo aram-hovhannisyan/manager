@@ -1,7 +1,7 @@
 # for start 
 pip install -r requierements.txt
 
-Introducing the Business Control and Automation Project for Small Companies
+# Introducing the Business Control and Automation Project for Small Companies
 
 The Business Control and Automation Project is a revolutionary solution designed to assist small companies in effectively managing their business operations, specifically focusing on streamlining inventory management, order fulfillment, and accounting processes. This innovative project aims to empower small businesses by providing them with a comprehensive system that automates calculations, facilitates seamless table creation, and ensures efficient accounting practices.
 
