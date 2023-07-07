@@ -1,5 +1,5 @@
 # for start 
-pip install -r requierements.txt
+pip install -r requirments.txt
 
 # Introducing the Business Control and Automation Project for Small Companies
 
